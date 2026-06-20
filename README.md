@@ -1,4 +1,4 @@
-# 影像處理期末專案：Tkinter 互動介面與 NumPy 幾何投影變換
+# 影像處理期末專題：Tkinter 互動介面與 NumPy 幾何投影變換
 **(Image Processing Core Technologies: Tkinter GUI & NumPy Perspective Transform)**
 
 本專案探討並實作了兩種基於 Python 的核心影像處理技術。透過物件導向設計 (OOP) 與單應性矩陣 (Homography Matrix) 的線性代數運算，展示了如何在不依賴龐大外部電腦視覺引擎（如 OpenCV）的情況下，達成具備商業等級水準的影像渲染與增強實境 (AR) 貼圖效果。
